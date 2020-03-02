@@ -11,4 +11,8 @@ _(Note that this developer's guide assumes that you're comfortable working with 
 Installing for the first time
 -----------------------------
 
-Clone the repo and `cd` into it.
+Create a directory where your 'local' version of the project will live. `cd` into the directory.
+
+Clone the repository by copying the URL (https://github.com/webx4/CapstoneALZATI) and appending it to the command `git clone`.
+
+Congratulations! You're now able to start working with the project.
