@@ -13,7 +13,10 @@ Installing for the first time
 
 Create a directory where your 'local' version of the project will live. `cd` into the directory.
 
-Clone the repository by copying the URL (https://github.com/webx4/CapstoneALZATI) and appending it to the command `git clone`.
+Clone the repository by entering this command:
+`git clone https://github.com/webx4/CapstoneALZATI.git`.
+
+Important note: if you _have not_ already set up your credentials inside your terminal/command prompt, you will want to do so **_ASAP_**. Seriously. It'll be dicey if you don't.
 
 Congratulations! You're now able to start working with the project.
 
