@@ -16,3 +16,16 @@ Create a directory where your 'local' version of the project will live. `cd` int
 Clone the repository by copying the URL (https://github.com/webx4/CapstoneALZATI) and appending it to the command `git clone`.
 
 Congratulations! You're now able to start working with the project.
+
+Beginning to develop on a branch
+-----------------------------
+For this project, you want to be working in weekly 'sprints'. Every Monday, we come together to do a code review and merge into master. But _before_ all that, you need to create a branch to work on.
+
+You'll first want to check that you have a branch that exists for you. Use the command
+`git branch -a`
+to see what branches exist in the project. If you see `remotes/origin/your-name-here` as one of the listed branches, then you have a branch listed. If not, move to the next section ('If you don't have a branch already made').
+
+## If you don't have a branch already made
+If you _don't_ have a branch already made, use the command `git branch checkout [insert-branch-name-here]` to create a new branch **and** check it out.
+
+To confirm that you _are_ on the branch you (just) created, use the command `git branch`. If you see the branch you just created with an asterisk beside it, then you're good to go!
